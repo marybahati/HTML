@@ -1,0 +1,34 @@
+body{
+	background: grey;
+}
+.cont{
+	width: 500px;
+	margin: 40px 0 auto;
+	padding: 150px;
+}
+.cont table{
+	width: 100%;
+	background-color: #fff;
+	text-align: left;
+	border: 1px solid #aaa;
+	border-collapse: collapse;
+}
+.cont table tr{
+	border-bottom: 1px solid #aaa;
+
+}
+.cont table tr:nth-child(even){
+	background-color: pink;
+}
+.cont table tr:last child{
+	border-bottom: none;
+}
+.cont table tr td{
+	padding: 10px;
+	border-right: 1px solid #aaa;
+}
+.cont table tr th{
+	background-color: #333;
+	padding: 10px;
+	color: #fff;
+}

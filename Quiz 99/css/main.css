@@ -1,0 +1,33 @@
+/*@font-face{*/
+  /*font-family: Ayres;*/
+  /*src:url(../fonts/Ayres.ttf);*/
+/*}*/
+body{
+  background-color:pink; 
+  background-size:cover;
+}
+.all{
+  background-color: #fff;
+  max-height: 700px;
+  width: 800px;
+  padding: 20px;
+  margin: 0 auto;
+
+}
+p{
+  font-family: 'Maiden Orange', cursive;
+}
+h2{
+  font-family: 'Roboto', sans-serif;
+}
+.fb{
+  color:#fff;
+  background-color: #fff;
+  width: 40px;
+  height: 40px;
+  font-size: 20px;
+  line-height: 2em;
+  display: inline;
+  text-align: center;
+  /*border-radius: 20px;*/
+}

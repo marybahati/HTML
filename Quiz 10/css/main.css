@@ -1,0 +1,59 @@
+/*@font-face{*/
+  /*font-family: Ayres;*/
+  /*src:url(../fonts/Ayres.ttf);*/
+/*}*/
+body{
+  background-color:grey; 
+  background-size:cover;
+}
+
+header{
+  background-color: rgb(198,143,35);
+  width: 59%;
+  height: 40px;
+  position: fixed;
+  top: 0
+  /*font-size: 14px;
+  list-style: none;*/
+  
+}
+.intro{
+  padding-right: 100px;
+}
+
+
+
+.all{
+  background-color: #fff;
+  max-height: 800px;
+  width: 800px;
+  padding: 20px;
+  margin: 0 auto;
+
+}
+p{
+  font-family: 'Maiden Orange', cursive;
+  text-align: justify;
+}
+h2{
+  font-family: 'Roboto', sans-serif;
+ /* padding-top: 10px;*/
+}
+h1{
+    padding-top: 10px;
+}
+
+
+
+
+/*.fb{
+  color:#fff;
+  background-color: #fff;
+  width: 40px;
+  height: 40px;
+  font-size: 20px;
+  line-height: 2em;
+  display: inline;
+  text-align: center;
+  /*border-radius: 20px;
+  }*/

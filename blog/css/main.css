@@ -1,0 +1,28 @@
+body{
+	background-color: white;
+	font-family: Times;
+}
+.cont{
+	width: 1000px;
+	margin: 0 auto;
+}
+.dogs{
+	float: left;
+	min-height: 220px;
+	padding-right: 50px;
+	margin-bottom: 30px;
+	overflow: auto;
+}
+.media{
+	width: 1000px;
+	min-height: 400px;
+	margin: 0 auto;
+
+}
+.media.map{
+	width: 100%
+}
+.info{
+	width: 1000px;
+	text-align: left;
+}
